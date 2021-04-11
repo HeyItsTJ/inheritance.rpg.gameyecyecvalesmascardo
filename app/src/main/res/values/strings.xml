@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Inheritance RPG</string>
+    <string-array name="HeroClass">
+        <item>Class</item>
+        <item>Heavy Gunner</item>
+        <item>Light Gunner</item>
+        <item>Charger</item>
+        <item>Support</item>
+    </string-array>
+    <string-array name="MonsterClass">
+        <item>Outlaws</item>
+        <item>Bandido</item>
+        <item>Pirata</item>
+        <item>Pistolero</item>
+        <item>Traidor</item>
+        <item>Assassino</item>
+    </string-array>
+
+    <string-array name="Heavgunnerclass">
+        <item>Subclass</item>
+        <item>Tercio</item>
+    </string-array>
+
+    <string-array name="Lightgunnerclass">
+        <item>Subclass</item>
+        <item>Fusilero</item>
+    </string-array>
+
+    <string-array name="Chargerclass">
+        <item>Subclass</item>
+        <item>Jinete</item>
+    </string-array>
+
+    <string-array name="supportsubclass">
+        <item>Subclass</item>
+        <item>Inquisidor</item>
+    </string-array>
+</resources>
